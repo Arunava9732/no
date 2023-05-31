@@ -365,6 +365,10 @@
       "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
       "name": "Wrapped ETH",
       "symbol": "WETH"
-    }
+    },
+    "wrappedToken": {
+      "address": "0x9Fdff9D41fD69CEC105e1Db8280a3E06F5E3f9A0",
+      "name": "Fiatend",
+      "symbol": "FTE"
   }
 }
